@@ -1,0 +1,13 @@
+body{
+  padding-top: 40px;
+  padding-bottom: 120px;
+}
+.welcome{
+  font-size: 18px;
+  display: incline;
+  padding: 5px;
+}
+
+#footer{
+  margin-top: 200px ;
+}
